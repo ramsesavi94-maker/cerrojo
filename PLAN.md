@@ -48,7 +48,7 @@ Demo web: página sencilla donde se pega una URL de repo y se ven los ataques en
 |---|---|
 | 18-10 | Prueba de PGlite + RLS (hecha), plan, esqueleto |
 | 19-10 | Capa que imita Supabase y aplicación de migraciones reales (hecha el 18-10) |
-| 20-10 | App de ejemplo vulnerable (`fixtures/`) con 4 o 5 fugas típicas |
+| 20-10 | App de ejemplo (`fixtures/demo-shop`) con 5 errores de configuración y su corrección (hecha el 18-10) |
 | 21-10 | Análisis estático + motor de ataques (ejecutar SQL como rol y usuario) |
 | 22-10 | Cliente de Token Factory; Nemotron genera ataques y datos semilla |
 | 23-10 | Bucle de corrección: migración → reataque → accesos legítimos |
